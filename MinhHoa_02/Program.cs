@@ -38,12 +38,10 @@ namespace MinhHoa_02
         {
             return y;
         }
-
         public void xuat(string name)
         {
             Console.WriteLine("{0}({1},{2})",name,x,y);
-        }
-      
+        }      
     }
     class Program
     {
@@ -58,6 +56,11 @@ namespace MinhHoa_02
             p2.setX(7);
             p2.setY(15);
             p2.xuat("B");
+
+            Diem p3 = new Diem();
+            p3.setX(10);
+            p3.setY(50);
+            p3.xuat("C");
             Console.ReadLine();
         }
     }
