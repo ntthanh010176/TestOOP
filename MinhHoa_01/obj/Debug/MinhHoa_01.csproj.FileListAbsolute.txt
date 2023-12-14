@@ -1,0 +1,7 @@
+C:\Users\Admin\Source\Repos\LapTrinhOOP\MinhHoa_01\bin\Debug\MinhHoa_01.exe.config
+C:\Users\Admin\Source\Repos\LapTrinhOOP\MinhHoa_01\bin\Debug\MinhHoa_01.exe
+C:\Users\Admin\Source\Repos\LapTrinhOOP\MinhHoa_01\bin\Debug\MinhHoa_01.pdb
+C:\Users\Admin\Source\Repos\LapTrinhOOP\MinhHoa_01\obj\Debug\MinhHoa_01.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\LapTrinhOOP\MinhHoa_01\obj\Debug\MinhHoa_01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\LapTrinhOOP\MinhHoa_01\obj\Debug\MinhHoa_01.exe
+C:\Users\Admin\Source\Repos\LapTrinhOOP\MinhHoa_01\obj\Debug\MinhHoa_01.pdb
